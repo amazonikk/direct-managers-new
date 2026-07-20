@@ -1,0 +1,2013 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-20T07:45:00Z",
+  "managers": [
+    {
+      "id": "taya",
+      "name": "Тая",
+      "spreadsheetId": "1kjC6t8IMlipgE827-yqyJWUK0kZEU01gYxrNPn1sKSE",
+      "accounts": [
+        {
+          "id": "taya-se77yk",
+          "sheetName": "РУ-tiktok",
+          "name": "TikTok — РУ",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-15",
+              "chats": 49.0,
+              "numbers": 17.0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 45.0,
+              "numbers": 9.0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 29.0,
+              "numbers": 10.0
+            },
+            {
+              "date": "2026-06-18",
+              "chats": 34.0,
+              "numbers": 6.0
+            },
+            {
+              "date": "2026-06-19",
+              "chats": 45.0,
+              "numbers": 8.0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 34.0,
+              "numbers": 6.0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 56.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 71.0,
+              "numbers": 8.0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 43.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 43.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-06-27",
+              "chats": 28.0,
+              "numbers": 6.0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 56.0,
+              "numbers": 8.0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 31.0,
+              "numbers": 6.0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 17.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 15.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 18.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 18.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 30.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 16.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 12.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 28.0,
+              "numbers": 10.0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 12.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 10.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 20.0,
+              "numbers": 6.0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 14.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 12.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 11.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 6.0,
+              "numbers": 2.0
+            }
+          ]
+        },
+        {
+          "id": "taya-gfebjy",
+          "sheetName": "УКР-tiktok",
+          "name": "TikTok — УКР",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-15",
+              "chats": 8.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 5.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-18",
+              "chats": 57.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-19",
+              "chats": 15.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 14.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 13.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 11.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 7.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 6.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-27",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 15.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 10.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 2.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 4.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 4.0,
+              "numbers": 1.0
+            }
+          ]
+        },
+        {
+          "id": "taya-7ejoe0",
+          "sheetName": "legal-tiktok",
+          "name": "TikTok — Legal",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-15",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-18",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-19",
+              "chats": 1.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 9.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-27",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 1.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 1.0,
+              "numbers": 0
+            }
+          ]
+        },
+        {
+          "id": "taya-1kpz34s",
+          "sheetName": "Рум - tiktok",
+          "name": "TikTok — Румунський",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-15",
+              "chats": 8.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 7.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-18",
+              "chats": 10.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-19",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 11.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 10.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 14.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-27",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 25.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 15.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 4.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 9.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 10.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 10.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 12.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 3.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 4.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 7.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 5.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 15.0,
+              "numbers": 2.0
+            }
+          ]
+        },
+        {
+          "id": "taya-q6d39p",
+          "sheetName": "Новинний - tiktok",
+          "name": "TikTok — Новинний",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-15",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-18",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-19",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 4.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-27",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 0.0,
+              "numbers": 0
+            }
+          ]
+        },
+        {
+          "id": "taya-dzksl2",
+          "sheetName": "РУ-inst",
+          "name": "Instagram — РУ",
+          "platform": "Instagram",
+          "records": [
+            {
+              "date": "2026-07-06",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 0.0,
+              "numbers": 0
+            }
+          ]
+        },
+        {
+          "id": "taya-uy6nak",
+          "sheetName": "УКР-inst",
+          "name": "Instagram — УКР",
+          "platform": "Instagram",
+          "records": [
+            {
+              "date": "2026-06-15",
+              "chats": 17.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-27",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 5.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 8.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 6.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 4.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 4.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 4.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 5.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 6.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 6.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 6.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 12.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 7.0,
+              "numbers": 1.0
+            }
+          ]
+        },
+        {
+          "id": "taya-su9pgg",
+          "sheetName": "УЗБ - inst",
+          "name": "Instagram — УЗБ",
+          "platform": "Instagram",
+          "records": [
+            {
+              "date": "2026-06-15",
+              "chats": 16.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 18.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 12.0,
+              "numbers": 1.0
+            }
+          ]
+        },
+        {
+          "id": "taya-12uhuq7",
+          "sheetName": "Новинний - inst",
+          "name": "Instagram — Новинний",
+          "platform": "Instagram",
+          "records": [
+            {
+              "date": "2026-06-15",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 0.0,
+              "numbers": 0
+            }
+          ]
+        },
+        {
+          "id": "taya-1yjohd0",
+          "sheetName": "ТЕЛЕГРАМ",
+          "name": "Telegram",
+          "platform": "Telegram",
+          "records": [
+            {
+              "date": "2026-06-22",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 1.0,
+              "numbers": 0
+            }
+          ]
+        }
+      ],
+      "ignoredSheets": [
+        {
+          "sheet": "TRAKIVO - рто tiktok",
+          "reason": "Не знайдено одночасно колонки чатів і загальної кількості номерів"
+        },
+        {
+          "sheet": "РУ-facebook",
+          "reason": "Немає рядків із датою та показниками"
+        },
+        {
+          "sheet": "legal-inst",
+          "reason": "Немає рядків із датою та показниками"
+        },
+        {
+          "sheet": "ЮТУБ (ЗАГАЛЬНО)",
+          "reason": "Не знайдено одночасно колонки чатів і загальної кількості номерів"
+        }
+      ]
+    },
+    {
+      "id": "kateryna",
+      "name": "Катерина",
+      "spreadsheetId": "1nLX2GGih9k6UJHDsH33_qK6IGquxzLGvWW7FQfMzt9Q",
+      "accounts": [
+        {
+          "id": "kateryna-3eeioc",
+          "sheetName": "Ісп (cap) -tiktok",
+          "name": "TikTok — Іспанська (CAP)",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-01",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-02",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-03",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-04",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-05",
+              "chats": 2.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-06",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-08",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-09",
+              "chats": 7.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-10",
+              "chats": 5.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-11",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-12",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-13",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-15",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 11.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-18",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-19",
+              "chats": 5.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-20",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 3.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 6.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 1.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 2.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 9.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 4.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 12.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 9.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 2.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 2.0,
+              "numbers": 0
+            }
+          ]
+        },
+        {
+          "id": "kateryna-jrjr8m",
+          "sheetName": "Marocco (europe)-tiktok",
+          "name": "TikTok — Марокко (Europe)",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-01",
+              "chats": 39.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-06-02",
+              "chats": 26.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-06-03",
+              "chats": 35.0,
+              "numbers": 6.0
+            },
+            {
+              "date": "2026-06-04",
+              "chats": 36.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-06-05",
+              "chats": 34.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-06-06",
+              "chats": 20.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-08",
+              "chats": 26.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-06-09",
+              "chats": 38.0,
+              "numbers": 6.0
+            },
+            {
+              "date": "2026-06-10",
+              "chats": 25.0,
+              "numbers": 7.0
+            },
+            {
+              "date": "2026-06-11",
+              "chats": 26.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-06-12",
+              "chats": 14.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-06-13",
+              "chats": 18.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-06-15",
+              "chats": 28.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-06-16",
+              "chats": 27.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 20.0,
+              "numbers": 8.0
+            },
+            {
+              "date": "2026-06-18",
+              "chats": 10.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-19",
+              "chats": 20.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-06-20",
+              "chats": 14.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 21.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 16.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 21.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 24.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 10.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 23.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 10.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 12.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 11.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 24.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 13.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 27.0,
+              "numbers": 6.0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 14.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 11.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 11.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 6.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 26.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 18.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 15.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 17.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 25.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 9.0,
+              "numbers": 1.0
+            }
+          ]
+        },
+        {
+          "id": "kateryna-zv3ema",
+          "sheetName": "Англ (e) - tiktok",
+          "name": "TikTok — Англійська (E)",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-16",
+              "chats": 32.0,
+              "numbers": 5.0
+            },
+            {
+              "date": "2026-06-17",
+              "chats": 20.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-18",
+              "chats": 5.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-19",
+              "chats": 8.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-20",
+              "chats": 7.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 9.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 14.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 6.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 12.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 9.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 21.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 9.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 5.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 23.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 20.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 9.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 6.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 12.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 6.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 10.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 2.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 6.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 3.0,
+              "numbers": 1.0
+            }
+          ]
+        },
+        {
+          "id": "kateryna-vvguj4",
+          "sheetName": "УЗБ (uz) - tiktok",
+          "name": "TikTok — Узбецька (UZ)",
+          "platform": "TikTok",
+          "records": [
+            {
+              "date": "2026-06-18",
+              "chats": 18.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-06-22",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-23",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-24",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-25",
+              "chats": 16.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-26",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-29",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-30",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-01",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 2.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 7.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 13.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 4.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 3.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 8.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 2.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 4.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 0.0,
+              "numbers": 0
+            }
+          ]
+        },
+        {
+          "id": "kateryna-8d8iry",
+          "sheetName": "Англ - INST",
+          "name": "Instagram — Англійська",
+          "platform": "Instagram",
+          "records": [
+            {
+              "date": "2026-07-01",
+              "chats": 10.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 7.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 4.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 25.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 15.0,
+              "numbers": 4.0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 17.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 7.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 3.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 9.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 30.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 6.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 20.0,
+              "numbers": 3.0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 9.0,
+              "numbers": 2.0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 2.0,
+              "numbers": 0
+            }
+          ]
+        },
+        {
+          "id": "kateryna-oml7mk",
+          "sheetName": "Рум - INST",
+          "name": "Instagram — Румунська",
+          "platform": "Instagram",
+          "records": [
+            {
+              "date": "2026-07-01",
+              "chats": 2.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-02",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-03",
+              "chats": 8.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-04",
+              "chats": 3.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-06",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-07",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-08",
+              "chats": 1.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-07-09",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-10",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-11",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-13",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-14",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-15",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-16",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-17",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-07-18",
+              "chats": 0.0,
+              "numbers": 0
+            }
+          ]
+        },
+        {
+          "id": "kateryna-1e8xj9m",
+          "sheetName": "УКР-facebook",
+          "name": "Facebook — Українська",
+          "platform": "Facebook",
+          "records": [
+            {
+              "date": "2026-06-01",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-02",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-03",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-04",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-05",
+              "chats": 2.0,
+              "numbers": 1.0
+            },
+            {
+              "date": "2026-06-06",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-08",
+              "chats": 0.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-09",
+              "chats": 1.0,
+              "numbers": 0
+            },
+            {
+              "date": "2026-06-10",
+              "chats": 0.0,
+              "numbers": 0
+            }
+          ]
+        }
+      ],
+      "ignoredSheets": [
+        {
+          "sheet": "ФБ-Пости",
+          "reason": "Не знайдено одночасно колонки чатів і загальної кількості номерів"
+        },
+        {
+          "sheet": "Вакансії",
+          "reason": "Не знайдено одночасно колонки чатів і загальної кількості номерів"
+        },
+        {
+          "sheet": "Пошта",
+          "reason": "Не знайдено одночасно колонки чатів і загальної кількості номерів"
+        }
+      ]
+    }
+  ]
+}
